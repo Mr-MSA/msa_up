@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Upload File</title>
-	<link rel="shortcut icon" href="icon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="https://tools.mr-msa.xyz/File/icon.png" type="image/x-icon">
 	<style>
 	    body
 	    {
