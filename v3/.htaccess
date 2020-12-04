@@ -1,3 +1,8 @@
-DirectoryIndex go.msa index-up.htm
+# index.php =>> in.msa 
+DirectoryIndex in.msa
+
+# .php =>> .msa
 AddType application/x-httpd-php .msa
+
+# All Index
 Options All -Indexes
